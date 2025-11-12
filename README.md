@@ -72,6 +72,3 @@ These characteristics help identify the subtle vocal changes associated with Par
 Dataset provided by the **UCI Machine Learning Repository**  
 Voice data recorded and analyzed by **Max Little et al.**
 
----
-
-
