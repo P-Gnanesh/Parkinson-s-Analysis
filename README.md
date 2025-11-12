@@ -74,6 +74,4 @@ Voice data recorded and analyzed by **Max Little et al.**
 
 ---
 
-### 📌 Author
-Developed by [Your Name]  
-Jupyter Notebook implementation for academic and research purposes.
+
